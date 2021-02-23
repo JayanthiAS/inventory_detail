@@ -10,6 +10,7 @@ Upload the csv file, read it and store the data into Database (either in MySql o
 	
 ## Setup
 To run Inventory details project, install the packages locally using npm:
+Note: Use Postman to view the result
 
 ```
 $ npm init   
